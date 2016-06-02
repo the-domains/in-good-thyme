@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Welcome to In Good Thyme Wellness
-datePublished: '2016-06-02T02:14:00.615Z'
-dateModified: '2016-06-02T02:13:42.008Z'
+datePublished: '2016-06-02T02:14:57.014Z'
+dateModified: '2016-06-02T02:14:54.389Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-02-welcome-to-in-good-thyme-wellness.md
