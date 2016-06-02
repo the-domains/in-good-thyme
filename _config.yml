@@ -1,7 +1,7 @@
 name: In Good Thyme
 favicon: null
-layout_spectrum: 0.20467263367027044
-typography_spectrum: 0.2816010166425258
+layout_spectrum: 0.29862
+typography_spectrum: 0.31411
 title: In Good Thyme
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.3214797433465719
-  lightness: 0.220666971988976
+    - '#252037'
+    - '#f3fdff'
+    - '#e0ccc5'
+    - '#c09079'
+    - '#84494f'
+  brandStrength: 0
+  lightness: 0.8125
   saturation: 0.5404472511727363
-  rhythmicContrast: 0.11801191419363022
+  rhythmicContrast: 0.5
 purpose: []
