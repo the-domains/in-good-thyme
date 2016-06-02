@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Welcome to In Good Thyme Wellness
-datePublished: '2016-06-02T02:09:35.017Z'
-dateModified: '2016-06-02T02:09:30.655Z'
+datePublished: '2016-06-02T02:10:36.044Z'
+dateModified: '2016-06-02T02:10:32.239Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-02-welcome-to-in-good-thyme-wellness.md
@@ -18,5 +18,6 @@ _type: Article
 
 ---
 Welcome to In Good Thyme Wellness
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/75a13f79-f653-4c9e-b6d8-fcd68e9e1940.jpg)
 
-Where you come to grow into your rejuvenation.
+Grow into your rejuvenation.
